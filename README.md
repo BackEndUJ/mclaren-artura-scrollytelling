@@ -20,7 +20,10 @@ https://mclaren-artura-scrollytelling.vercel.app
 This project was developed using an AI-assisted workflow, leveraging tools like Antigravity to enhance design, structure, and development efficiency while maintaining full control over implementation and customization.
 
 ## 📸 Preview
-(Add screenshots here after upload)
+
+![Landing](public/preview/landing-view.png)
+![Scroll Animation](public/preview/scroll-animation.png)
+![Final UI](public/preview/final-ui.png)
 
 ## ⚙️ Run Locally
 
