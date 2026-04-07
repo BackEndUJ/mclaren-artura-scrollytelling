@@ -2,6 +2,9 @@
 
 A modern scrollytelling frontend project inspired by the McLaren Artura, built using Next.js and Tailwind CSS with AI-assisted design and development.
 
+## 🌐 Live Demo
+https://mclaren-artura-scrollytelling.vercel.app
+
 ## 🚀 Features
 - Smooth scroll-based storytelling
 - Responsive UI design
